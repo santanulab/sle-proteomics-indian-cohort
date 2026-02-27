@@ -12,5 +12,3 @@ This repository contains the Python code used for the machine learning and stati
 ## How to Run
 The script requires Python 3.8+ and the following libraries:
 `pandas`, `numpy`, `scikit-learn`, `scipy`, `matplotlib`, `seaborn`, `shap`.
-
-To ensure reproducibility, the script includes a synthetic fallback dataset that mirrors the statistical properties of the 5-marker biosignature (COL18A1, HYOU1, IGHG4, FLNA, SH3BGRL3). Reviewers can run the script directly to generate the exact performance metrics and figures described in the manuscript.
